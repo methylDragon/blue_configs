@@ -2,3 +2,4 @@ left_arm/blue_hardware:
     serial_port: /dev/serial/by-id/usb-FTDI_FT232R_USB_UART_A506NOKG-if00-port0
     motor_ids: [30, 62, 69, 68, 81, 51, 50, 55]
     simple_startup_angles: [-0.785398, -2.19, -1.570796, 0.0, 1.570796, -0.23, 0.0, 0.0]
+    accel_rotations: [0, 1, 2, 3, 0]
