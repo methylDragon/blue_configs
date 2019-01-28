@@ -8,3 +8,4 @@ left_arm/blue_hardware:
     motor_ids: [30, 62, 69, 68, 81, 51, 50, 55]
     simple_startup_angles: [-0.785398, -2.19, -1.570796, 0.0, 1.570796, -0.23, 0.0, 0.0]
     accel_rotations: [0, 0, 0, 0, 0]
+    actuator_zeros:  [0, 0, 0, 0, 0]
