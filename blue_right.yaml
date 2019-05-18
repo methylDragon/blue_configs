@@ -1,5 +1,5 @@
 right_arm/blue_hardware:
-    serial_port: /dev/serial/by-id/usb-FTDI_FT232R_USB_UART_A506NOKG-if00-port0
+    serial_port: /dev/serial/by-id/usb-FTDI_FT232R_USB_UART_A506MOXA-if00-port0
     # serial_port: /dev/ttyUSB0
     motor_ids: [40, 65, 76, 77, 70, 21, 20, 55]
     simple_startup_angles: [0.785398, -2.19, 1.570796, 0.0, -1.570796, -0.23, 0.0, 0.0]
