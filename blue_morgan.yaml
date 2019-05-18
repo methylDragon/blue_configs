@@ -1,6 +1,7 @@
 right_arm/blue_hardware:
     serial_port: /dev/ttyUSB0
     motor_ids: [83, 80, 79, 16, 33, 35, 36, 34]
+    motor_ids: [83, 79, 80, 33, 16, 36, 35, 34]
     simple_startup_angles: [-0.6647, -2.1294, 0.8929, -2.1951, -2.0915, -0.5770, 0.0274, 0.0]
     disable_snap: true
     accel_rotations: [0, 0, 0, 0, 0]
